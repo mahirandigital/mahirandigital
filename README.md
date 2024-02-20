@@ -1,16 +1,51 @@
-### Hi there 👋
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=mahirandigital&label=Profile%20views&color=0e75b6&style=plastic" alt="mahirandigital" /> </p>
 
-<!--
-**mahirandigital/mahirandigital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/mahirandigital/count.svg"
+    alt="Visitor count"
+  />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👋 Welcome to Mahiran Digital Sdn Bhd 
+- 👀 This is a IT Solution company
+- 🌱 Currently working in Subang Permai Selangor Malaysia
+- 💞️ Specialize in Mobile Application Development and Laravel Web Development
+- 📫 How to reach me? Contact me via email info@mahirandigital.com
+
+<!---
+mahirandigital/mahirandigital is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+ 
+
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=mahirandigital&theme=highcontrast" alt="mahirandigital"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahirandigital&hide=html&layout=compact&theme=merko"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=mahirandigital&theme=tokyonight"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
